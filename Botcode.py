@@ -682,4 +682,4 @@ bot.add_command("attachmentActions", "*", handle_cards)
 
 if __name__ == "__main__":
     # Run Bot
-    bot.run(host="0.0.0.0", port=5002)
+    bot.run(host="0.0.0.0", port="<Port>")
